@@ -1,2 +1,6 @@
 # AWSDevOpsCloudNanoDegree
 Project_2
+
+LoadBalancer DNS Link to our Udagram Test Application:
+
+http://serve-webap-1pxfvug86qux2-793989903.us-west-2.elb.amazonaws.com/
